@@ -1,4 +1,4 @@
-RL,glaucoma,age,ocular_pressure,MD,PSD,GHT,cornea_thickness,RNFL4.mean
+RL,glaucoma,age,ocular_pressure,mean_deviation,pattern_standard_deviation,glaucoma_hemifield_test,cornea_thickness,RNFL4.mean
 OD,0,62,17,-0.54,1.81,0,558,103.3333333
 OS,0,62,17,-0.64,1.38,0,564,107.6666667
 OD,0,66,12,-1.65,2.89,2,490,162
