@@ -7,13 +7,12 @@ used for the machine learning portion of the original paper.I renamed the variab
 Questions:
 
 1) Are the continuous variables within the total data normally distributed? If not, are they normally distributed within disease state? 
-Which continuous variables are the most correlated?
 
 	Making a scatter matrix of the continuous variables should answer these questions.
 
-2) How many false positives and/or false negatives are present in the dataset based on their machine learning model?
+2) Which continuous variables are the most correlated?
 	
-	Making a plot colored by disease presence and plotting RNFL score, then looking for colors that don't cluster correctly.
+	
 	
 3) After PCA, how many dimensions are necessary to account for at least 95% of the variance within the data?
 
