@@ -87,7 +87,9 @@ corrplot(df_disease_cont_corr,
 
 In the disease state, mean_deviation and RNFL mean maintain the highest correlation coefficient, although the strength of the correlation weakens slightly having a value of only 0.56.
 
-#Repoducibility
+##Repoducibility
+
+
 Hopefully between the comments in the code and the README, my analyses are easy to follow through and reproduce. I'll say that the original authors do a reasonable job describing the dataset and stating which models they use to compare to; however, I could not find the actual code they used for their model. Whether this is my own failing to understand/interpret their work or them not actually making it clear is not apparent to me.
 
 

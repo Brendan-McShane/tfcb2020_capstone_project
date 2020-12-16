@@ -12,8 +12,7 @@ used for the machine learning portion of the original paper. After researching w
 to be more descriptive biologically. I wasn't clear to me from my initial reading of the paper from which the data were sourced what each header
 actually meant, so I has to find some other sources online to help. I would recommend the authors describe this more obviously in the depo.
 
-
-I set out to answer the following three questions about these data:
+#Questions
 
 1) Are the continuous variables within the total data set normally distributed? If not, are they normally distributed after subsetting by
  disease state? 
@@ -23,6 +22,10 @@ I set out to answer the following three questions about these data:
 3) Which continuous variables are the most correlated, and to what extent? Do these correlations change after subsetting by disease state?
 	
 
+#Reproducibility
 
+Hopefully between the comments in the code and the README, my analyses are easy to follow through and reproduce. I'll say that the original authors do a reasonable job describing the dataset and stating which models they use to compare to; however, I could not find the actual code they used for their model. Whether this is my own failing to understand/interpret their work or them not actually making it clear is not apparent to me.
+
+#Citation
 Kim, Seongjae; Cho, Kyung Jin; Oh, Sejong (2018), Data from: Development of machine learning models for diagnosis of glaucoma, Dryad, Dataset,
 https://doi.org/10.5061/dryad.q6ft5
